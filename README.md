@@ -1,16 +1,13 @@
 ### Hi there 👋
+ 
+# Welcome to Olaiya Oluwadamilola page #
+- 🔭 I’m currently working on projects to improve my data analytics skills 
+- 🌱 My goal is to use technology and data to assist organizations make well-informed decisions that will promote profitability and growth
+- 👯 I’m looking to collaborate with startups and business owners
+- 🤔 I’m open for entry level data analyst role
+- 📫 How to reach me [linked in](www.linkedin.com/in/olaiya-oluwadamilola-374034135)
+- 😄 Pronouns: He
+  
+ ### Projects 
+My projects that explore different facets of data analytics are gathered here. The project details, including goals, methods used, and related insights and images are all contained in each repository. Explore and get in touch whenever you want.
 
-<!--
-**Olaiyadamilola-02/Olaiyadamilola-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
